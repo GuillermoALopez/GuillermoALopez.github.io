@@ -1,0 +1,51 @@
+📌 Proyecto: Currículum Web - Guillermo Alejandro López Posadas
+
+📄 Descripción
+
+Este es un proyecto web desarrollado en HTML, CSS y JavaScript, diseñado para presentar el currículum de Guillermo Alejandro López Posadas. La página es responsiva y contiene información sobre la experiencia, habilidades, certificados y proyectos del usuario, además de permitir la descarga de su CV y contacto a través de un formulario.
+
+📂 Estructura del Proyecto
+
+El proyecto está compuesto por los siguientes archivos:
+
+📜 index.html → Contiene la estructura principal del sitio web.
+
+🎨 styles.css → Define los estilos visuales de la página.
+
+⚡ script.js → Agrega interactividad, incluyendo el menú móvil y la validación del formulario.
+
+📁 CV/ → Carpeta donde se almacena el CV en formato PDF.
+
+📁 fotos/ → Carpeta con imágenes utilizadas en la página.
+
+📝 README.md → Documento con información sobre el proyecto.
+
+📌 Características Principales
+
+✅ Diseño Responsivo – Se adapta a diferentes tamaños de pantalla.✅ Menú Interactivo – Compatible con dispositivos móviles.✅ Descarga de CV – Botón para descargar el currículum en formato PDF.✅ Formulario de Contacto – Permite enviar mensajes directamente.✅ Efecto de Desplazamiento Suave – Mejora la experiencia del usuario.
+
+🚀 Cómo Usar el Proyecto
+
+Para utilizar este proyecto, sigue estos pasos:
+
+Abrir en Visual Studio Code:
+
+Abre Visual Studio Code en tu computadora.
+
+Selecciona File > Open Folder... y elige la carpeta del proyecto.
+
+Ejecutar el proyecto:
+
+En el explorador de archivos dentro de VS Code, busca el archivo index.html.
+
+Haz doble click en el archivo index.html y se habrira en tu navegador.
+
+Se abrirá automáticamente en tu navegador.
+
+Si no tienes Live Server, simplemente haz doble clic en index.html para abrirlo en el navegador.
+
+🔧 Futuras Mejoras
+
+🔹 Agregar nuevas secciones o proyectos en el futuro.
+🔹 Optimizar el diseño y el código según lo aprendido.
+🔹 Integrar un backend para gestionar el formulario de contacto.
